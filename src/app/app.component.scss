@@ -1,0 +1,21 @@
+.dates, .calculate {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .dates div, .calculate div {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+  }
+  
+  .calculate {
+    margin-top: 20px;
+  }
+  
